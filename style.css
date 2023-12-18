@@ -1,7 +1,18 @@
-img {
+.avatar{
     width: 150px;
 }
 .card {
+width: 400px;
+margin: 0 auto;
 border:1px dotted black;
 padding: 15px;
+display: flex;
+justify-content: space-around;
+text-align: center;
+background-color: rgb(192, 223, 250);
+border-bottom:5px solid black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text {
+text-align: center;
 }
